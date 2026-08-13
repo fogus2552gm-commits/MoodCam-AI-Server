@@ -1,4 +1,6 @@
 deepface==0.0.100
+tensorflow==2.21.0
+tf-keras==2.21.0
 Flask
 Flask-Cors
 cryptography
