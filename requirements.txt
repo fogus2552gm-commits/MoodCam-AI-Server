@@ -5,3 +5,4 @@ Flask
 Flask-Cors
 cryptography
 gunicorn
+Pillow
